@@ -1,0 +1,41 @@
+{
+    "ninosh": [
+      {
+        "dias": "lunes a viernes",
+        "horario": "10:00 - 18:30"
+      },
+      {
+        "dias": "sábados y domingos",
+        "horario": "10:00 - 13:30"
+      }
+    ],
+    "adultosh": [
+      {
+        "dias": "lunes a viernes",
+        "horario": "06:45 - 21:30"
+      },
+      {
+        "dias": "sábado y domingo",
+        "horario": "07:35 - 09:15"
+      },
+      {
+        "dias": "martes y jueves",
+        "horario": "13:30 - 14:15"
+      },
+      {
+        "dias": "lunes, miércoles y viernes",
+        "horario": "13:45 - 14:30"
+      }
+    ],
+    "bebesh": [
+      {
+        "dias": "lunes, miércoles y viernes",
+        "horario": "14:30 - 16:30"
+      },
+      {
+        "dias": "sábado y domingo",
+        "horario": "11:30 - 13:30"
+      }
+    ]
+  }
+  
